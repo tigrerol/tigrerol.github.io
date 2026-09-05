@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4389UPKT9V.com.tigrerol.latch"],
+        "components": [
+          { "/": "/latch/t/*", "comment": "Latch NFC tags: focus locks and commitment proofs" }
+        ]
+      }
+    ]
+  }
+}
